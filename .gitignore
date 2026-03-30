@@ -3,10 +3,12 @@ data/results.csv
 data/iso_forest.pkl
 plots/
 
-# Python
+# Python cache
 __pycache__/
 *.pyc
-.env
+*.pyo
+
+# Virtual environment
 venv/
 
 # VS Code
