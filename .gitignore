@@ -1,0 +1,13 @@
+# Generated outputs
+data/results.csv
+data/iso_forest.pkl
+plots/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# VS Code
+.vscode/
