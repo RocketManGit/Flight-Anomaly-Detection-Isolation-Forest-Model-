@@ -15,7 +15,7 @@ Traditional monitoring systems, built around fixed thresholds for individual sen
 
 ---
 
-## What This Tool Does (In Plain English)
+## What This Tool Does
 
 AeroFaultML is an intelligent monitoring system that learns what "normal" flight looks like by analysing historical sensor data. Once it understands normal, it continuously watches for moments where the *combination* of sensor readings deviates from that pattern — even when no individual sensor is technically out of bounds.
 
@@ -36,7 +36,7 @@ Think of it like a highly experienced aircraft engineer who has reviewed thousan
 
 ---
 
-## The Technology (Simplified)
+## The Technology 
 
 Under the hood, AeroFaultML uses a technique called an **Isolation Forest** — a machine learning algorithm that is particularly well-suited to finding rare, unusual events in large datasets.
 
